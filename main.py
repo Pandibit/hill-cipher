@@ -73,6 +73,7 @@ def main():
     print(f"The encrypted message is: {encrypt(message, key)}")
 
 main()
+print("Hello")
 
 
 
